@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Links
+
 [vercel dashboard](https://vercel.com/ppalladino/pert-calculator)
+
 [vercel public site](https://pert-calculator.vercel.app/)
 
 
